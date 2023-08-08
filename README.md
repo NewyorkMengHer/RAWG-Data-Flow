@@ -1,7 +1,7 @@
-# RAWG DataFlow
+# RAWG Data Flow
 
 ## Introduction
-"RAWG DataFlow" is an ETL pipeline designed to extract, transform, and load video game data from RAWG's API, the largest video game database. This project was born out of a dual passion: a keen interest in cloud technologies, specifically AWS, and a love for video games. As a dedicated gamer, I wanted to stay updated with the latest in the gaming world, but time constraints often got in the way. This pipeline serves as a solution to that, while also offering hands-on experience with AWS services.
+"RAWG Data Flow" is an ETL pipeline designed to extract, transform, and load video game data from RAWG's API, the largest video game database. This project was born out of a dual passion: a keen interest in cloud technologies, specifically AWS, and a love for video games. As a dedicated gamer, I wanted to stay updated with the latest in the gaming world, but time constraints often got in the way. This pipeline serves as a solution to that, while also offering hands-on experience with AWS services.
 
 ## Features
 - **Data Extraction**: Utilizes AWS Lambda to pull video game data in JSON format from RAWG's API.
@@ -31,4 +31,4 @@ With the data now housed in RedShift, the next logical step is to derive insight
 The beauty of Tableau lies in its ability to transform raw data into interactive and visually appealing dashboards. As a gamer, this was particularly exciting for me. I could now see trends, player preferences, game ratings, and so much more, all represented graphically. It was like having a bird's eye view of the entire gaming landscape.
 
 ## Conclusion
-"RAWG DataFlow" is a testament to the power of cloud technologies and data analytics. From extracting raw data from an API to visualizing meaningful insights in Tableau, every step of the journey was both challenging and rewarding. Whether you're a data enthusiast, a cloud computing aficionado, or a passionate gamer, I hope this project offers a blend of technical know-how and a dash of gaming excitement.
+"RAWG Data Flow" is a testament to the power of cloud technologies and data analytics. From extracting raw data from an API to visualizing meaningful insights in Tableau, every step of the journey was both challenging and rewarding. Whether you're a data enthusiast, a cloud computing aficionado, or a passionate gamer, I hope this project offers a blend of technical know-how and a dash of gaming excitement.
