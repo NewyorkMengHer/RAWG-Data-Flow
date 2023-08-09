@@ -15,6 +15,8 @@
 3. **Data Review**: Using Visual Studio Code on a local machine, the data is reviewed to understand its structure and determine the necessary transformations.
 4. **Glue & Spark Transformation**: AWS Glue extracts the data from the S3 bucket. Spark is then used to handle the transformation process, especially dealing with nested arrays in the data.
 5. **Final Storage**: Post-transformation, the data is saved as a CSV and stored back in an S3 bucket.
+   
+![image](images/RAWG%20Data%20Pipeline%20Architecture.JPG)
 
 ## Challenges
 - **Lambda Setup**: Encountered issues in setting up Lambda to make HTTP requests. This was resolved by using EC2 to create a suitable Lambda environment.
