@@ -1,0 +1,942 @@
+game_id,game_name,released,rating,ratings_count,reviews_text_count,added,playtime,platform_name,store_name,genre_name,name,beaten,dropped,owned,playing,toplay,yet
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Steam,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Steam,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Steam,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,PlayStation Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,PlayStation Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,PlayStation Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Xbox Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Xbox Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Xbox Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,GOG,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,GOG,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,GOG,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Epic Games,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Epic Games,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PC,Epic Games,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Steam,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Steam,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Steam,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,PlayStation Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,PlayStation Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,PlayStation Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Xbox Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Xbox Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Xbox Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,GOG,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,GOG,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,GOG,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Epic Games,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Epic Games,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 5,Epic Games,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Steam,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Steam,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Steam,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,PlayStation Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,PlayStation Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,PlayStation Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Xbox Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Xbox Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Xbox Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,GOG,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,GOG,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,GOG,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Epic Games,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Epic Games,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox One,Epic Games,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Steam,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Steam,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Steam,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,PlayStation Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,PlayStation Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,PlayStation Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Xbox Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Xbox Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Xbox Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,GOG,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,GOG,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,GOG,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Epic Games,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Epic Games,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,PlayStation 4,Epic Games,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Steam,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Steam,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Steam,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,PlayStation Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,PlayStation Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,PlayStation Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Xbox Store,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Xbox Store,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Xbox Store,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,GOG,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,GOG,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,GOG,RPG,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Epic Games,Adventure,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Epic Games,Action,Mature,1735,412,5888,421,2390,803
+41494,Cyberpunk 2077,2020-12-10,4.12,2300,52,11649,25,Xbox Series S/X,Epic Games,RPG,Mature,1735,412,5888,421,2390,803
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Steam,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Steam,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,PlayStation Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,PlayStation Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Xbox Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Xbox Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Epic Games,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PC,Epic Games,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Steam,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Steam,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,PlayStation Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,PlayStation Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Xbox Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Xbox Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Epic Games,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 5,Epic Games,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Steam,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Steam,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,PlayStation Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,PlayStation Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Xbox Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Xbox Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Epic Games,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,Xbox One,Epic Games,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Steam,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Steam,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,PlayStation Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,PlayStation Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Xbox Store,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Xbox Store,Action,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Epic Games,Adventure,Teen,1871,394,4727,269,858,423
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.14,2006,43,8542,8,PlayStation 4,Epic Games,Action,Teen,1871,394,4727,269,858,423
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Steam,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Steam,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,PlayStation Store,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,PlayStation Store,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Xbox Store,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Xbox Store,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Epic Games,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PC,Epic Games,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Steam,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Steam,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,PlayStation Store,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,PlayStation Store,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Xbox Store,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Xbox Store,Action,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Epic Games,Adventure,Mature,1370,394,4362,347,1354,668
+50738,Death Stranding,2019-11-08,4.33,1863,32,8495,10,PlayStation 4,Epic Games,Action,Mature,1370,394,4362,347,1354,668
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Steam,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Steam,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Steam,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Steam,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Steam,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,PlayStation Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,PlayStation Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,PlayStation Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,PlayStation Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,PlayStation Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Xbox Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Xbox Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Xbox Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Xbox Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Xbox Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Nintendo Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Nintendo Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Nintendo Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Nintendo Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Nintendo Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Epic Games,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Epic Games,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Epic Games,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Epic Games,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PC,Epic Games,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Steam,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Steam,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Steam,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Steam,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Steam,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,PlayStation Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,PlayStation Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,PlayStation Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,PlayStation Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,PlayStation Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Xbox Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Xbox Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Xbox Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Xbox Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Xbox Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Nintendo Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Nintendo Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Nintendo Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Nintendo Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Nintendo Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Epic Games,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Epic Games,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Epic Games,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Epic Games,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox One,Epic Games,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Steam,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Steam,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Steam,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Steam,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Steam,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,PlayStation Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,PlayStation Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,PlayStation Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,PlayStation Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,PlayStation Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Xbox Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Xbox Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Xbox Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Xbox Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Xbox Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Nintendo Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Nintendo Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Nintendo Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Nintendo Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Nintendo Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Epic Games,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Epic Games,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Epic Games,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Epic Games,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,PlayStation 4,Epic Games,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Steam,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Steam,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Steam,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Steam,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Steam,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,PlayStation Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,PlayStation Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,PlayStation Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,PlayStation Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,PlayStation Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Xbox Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Xbox Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Xbox Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Xbox Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Xbox Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Nintendo Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Nintendo Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Nintendo Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Nintendo Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Nintendo Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Epic Games,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Epic Games,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Epic Games,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Epic Games,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Xbox Series S/X,Epic Games,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Steam,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Steam,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Steam,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Steam,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Steam,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,PlayStation Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,PlayStation Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,PlayStation Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,PlayStation Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,PlayStation Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Xbox Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Xbox Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Xbox Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Xbox Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Xbox Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Nintendo Store,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Nintendo Store,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Nintendo Store,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Nintendo Store,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Nintendo Store,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Epic Games,Action,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Epic Games,Casual,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Epic Games,Sports,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Epic Games,Indie,Everyone,370,946,6167,284,110,102
+326292,Fall Guys: Ultimate Knockout,2020-08-04,3.74,1204,15,7979,5,Nintendo Switch,Epic Games,Massively Multiplayer,Everyone,370,946,6167,284,110,102
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PC,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 5,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox One,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,PlayStation 4,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Xbox Series S/X,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Steam,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Steam,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Steam,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Steam,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,PlayStation Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,PlayStation Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,PlayStation Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,PlayStation Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Xbox Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Xbox Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Xbox Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Xbox Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Nintendo Store,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Nintendo Store,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Nintendo Store,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Nintendo Store,RPG,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Epic Games,Indie,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Epic Games,Adventure,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Epic Games,Action,Teen,1073,510,4358,458,666,415
+274755,Hades,2020-09-17,4.45,1656,28,7480,9,Nintendo Switch,Epic Games,RPG,Teen,1073,510,4358,458,666,415
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Steam,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Steam,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,PlayStation Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,PlayStation Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Xbox Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Xbox Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Nintendo Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PC,Nintendo Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Steam,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Steam,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,PlayStation Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,PlayStation Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Xbox Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Xbox Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Nintendo Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 5,Nintendo Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Steam,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Steam,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,PlayStation Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,PlayStation Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Xbox Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Xbox Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Nintendo Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Xbox One,Nintendo Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Steam,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Steam,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,PlayStation Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,PlayStation Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Xbox Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Xbox Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Nintendo Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,PlayStation 4,Nintendo Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Steam,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Steam,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,PlayStation Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,PlayStation Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Xbox Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Xbox Store,Action,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Nintendo Store,Shooter,Mature,1040,307,3766,196,1047,478
+58777,DOOM Eternal,2020-03-20,4.37,1212,22,6834,12,Nintendo Switch,Nintendo Store,Action,Mature,1040,307,3766,196,1047,478
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Steam,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Steam,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Steam,Action,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Xbox Store,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Xbox Store,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,PC,Xbox Store,Action,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Steam,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Steam,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Steam,Action,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Xbox Store,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Xbox Store,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox One,Xbox Store,Action,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Steam,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Steam,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Steam,Action,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Xbox Store,Shooter,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Xbox Store,Adventure,Teen,282,295,5281,112,590,259
+58751,Halo Infinite,2021-12-08,3.68,619,10,6819,2,Xbox Series S/X,Xbox Store,Action,Teen,282,295,5281,112,590,259
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PC,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 5,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox One,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,PlayStation 4,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Xbox Series S/X,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,Nintendo Switch,Epic Games,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Steam,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Steam,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Steam,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,PlayStation Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,PlayStation Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,PlayStation Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,App Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,App Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,App Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,GOG,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,GOG,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,GOG,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Nintendo Store,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Nintendo Store,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Nintendo Store,RPG,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Epic Games,Indie,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Epic Games,Adventure,Mature,615,253,4173,242,812,504
+262382,Disco Elysium,2019-10-14,4.42,1040,8,6599,6,macOS,Epic Games,RPG,Mature,615,253,4173,242,812,504
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 5,PlayStation Store,Shooter,Mature,1609,74,3092,126,1337,351
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 5,PlayStation Store,Adventure,Mature,1609,74,3092,126,1337,351
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 5,PlayStation Store,Action,Mature,1609,74,3092,126,1337,351
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 4,PlayStation Store,Shooter,Mature,1609,74,3092,126,1337,351
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 4,PlayStation Store,Adventure,Mature,1609,74,3092,126,1337,351
+51325,The Last of Us Part II,2020-06-19,4.42,1665,58,6589,0,PlayStation 4,PlayStation Store,Action,Mature,1609,74,3092,126,1337,351
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,Steam,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,Steam,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,PlayStation Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,PlayStation Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,Xbox Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PC,Xbox Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,Steam,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,Steam,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,PlayStation Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,PlayStation Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,Xbox Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 5,Xbox Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,Steam,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,Steam,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,PlayStation Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,PlayStation Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,Xbox Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox One,Xbox Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,Steam,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,Steam,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,PlayStation Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,PlayStation Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,Xbox Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,PlayStation 4,Xbox Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,Steam,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,Steam,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,PlayStation Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,PlayStation Store,RPG,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,Xbox Store,Action,Mature,664,251,3758,269,859,313
+326243,Elden Ring,2022-02-25,4.4,917,26,6114,59,Xbox Series S/X,Xbox Store,RPG,Mature,664,251,3758,269,859,313
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Steam,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Steam,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Steam,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Steam,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,PlayStation Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,PlayStation Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,PlayStation Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,PlayStation Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Xbox Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Xbox Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Xbox Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Xbox Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,GOG,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,GOG,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,GOG,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,GOG,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Nintendo Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Nintendo Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Nintendo Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Nintendo Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Epic Games,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Epic Games,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Epic Games,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PC,Epic Games,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Steam,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Steam,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Steam,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Steam,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,PlayStation Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,PlayStation Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,PlayStation Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,PlayStation Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Xbox Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Xbox Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Xbox Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Xbox Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,GOG,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,GOG,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,GOG,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,GOG,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Nintendo Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Nintendo Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Nintendo Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Nintendo Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Epic Games,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Epic Games,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Epic Games,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Xbox One,Epic Games,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Steam,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Steam,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Steam,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Steam,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,PlayStation Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,PlayStation Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,PlayStation Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,PlayStation Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Xbox Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Xbox Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Xbox Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Xbox Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,GOG,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,GOG,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,GOG,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,GOG,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Nintendo Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Nintendo Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Nintendo Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Nintendo Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Epic Games,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Epic Games,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Epic Games,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,PlayStation 4,Epic Games,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Steam,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Steam,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Steam,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Steam,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,PlayStation Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,PlayStation Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,PlayStation Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,PlayStation Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Xbox Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Xbox Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Xbox Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Xbox Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,GOG,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,GOG,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,GOG,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,GOG,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Nintendo Store,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Nintendo Store,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Nintendo Store,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Nintendo Store,RPG,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Epic Games,Shooter,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Epic Games,Adventure,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Epic Games,Action,,923,472,2758,195,890,419
+274762,The Outer Worlds,2019-10-25,3.87,1361,25,5657,8,Nintendo Switch,Epic Games,RPG,,923,472,2758,195,890,419
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Steam,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Steam,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Steam,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Xbox Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Xbox Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Xbox Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Nintendo Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Nintendo Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,PC,Nintendo Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Steam,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Steam,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Steam,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Xbox Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Xbox Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Xbox Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Nintendo Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Nintendo Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox One,Nintendo Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Steam,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Steam,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Steam,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Xbox Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Xbox Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Xbox Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Nintendo Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Nintendo Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Xbox Series S/X,Nintendo Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Steam,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Steam,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Steam,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Xbox Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Xbox Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Xbox Store,Action,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Nintendo Store,Platformer,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Nintendo Store,Adventure,Everyone,873,190,2990,117,909,502
+28199,Ori and the Will of the Wisps,2020-03-10,4.46,1104,12,5581,11,Nintendo Switch,Nintendo Store,Action,Everyone,873,190,2990,117,909,502
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Steam,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Steam,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Steam,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Steam,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,PlayStation Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,PlayStation Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,PlayStation Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,PlayStation Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Xbox Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Xbox Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Xbox Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Xbox Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Epic Games,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Epic Games,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Epic Games,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PC,Epic Games,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Steam,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Steam,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Steam,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Steam,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,PlayStation Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,PlayStation Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,PlayStation Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,PlayStation Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Xbox Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Xbox Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Xbox Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Xbox Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Epic Games,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Epic Games,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Epic Games,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 5,Epic Games,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Steam,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Steam,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Steam,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Steam,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,PlayStation Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,PlayStation Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,PlayStation Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,PlayStation Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Xbox Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Xbox Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Xbox Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Xbox Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Epic Games,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Epic Games,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Epic Games,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox One,Epic Games,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Steam,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Steam,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Steam,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Steam,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,PlayStation Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,PlayStation Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,PlayStation Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,PlayStation Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Xbox Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Xbox Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Xbox Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Xbox Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Epic Games,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Epic Games,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Epic Games,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,PlayStation 4,Epic Games,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Steam,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Steam,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Steam,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Steam,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,PlayStation Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,PlayStation Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,PlayStation Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,PlayStation Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Xbox Store,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Xbox Store,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Xbox Store,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Xbox Store,RPG,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Epic Games,Shooter,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Epic Games,Adventure,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Epic Games,Action,Mature,528,275,3352,193,548,394
+58617,Borderlands 3,2019-09-13,3.9,814,13,5290,10,Xbox Series S/X,Epic Games,RPG,Mature,528,275,3352,193,548,394
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 5,PlayStation Store,Adventure,Mature,756,102,2769,152,1114,326
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 5,PlayStation Store,Action,Mature,756,102,2769,152,1114,326
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 5,PlayStation Store,RPG,Mature,756,102,2769,152,1114,326
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 4,PlayStation Store,Adventure,Mature,756,102,2769,152,1114,326
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 4,PlayStation Store,Action,Mature,756,102,2769,152,1114,326
+58550,Ghost of Tsushima,2020-07-17,4.46,870,17,5219,0,PlayStation 4,PlayStation Store,RPG,Mature,756,102,2769,152,1114,326
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Steam,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Steam,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Steam,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,PlayStation Store,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,PlayStation Store,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,PlayStation Store,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Epic Games,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Epic Games,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PC,Epic Games,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Steam,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Steam,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Steam,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,PlayStation Store,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,PlayStation Store,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,PlayStation Store,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Epic Games,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Epic Games,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 5,Epic Games,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Steam,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Steam,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Steam,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,PlayStation Store,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,PlayStation Store,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,PlayStation Store,RPG,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Epic Games,Adventure,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Epic Games,Action,Teen,683,137,2805,133,747,333
+259801,Final Fantasy VII,2020-04-10,4.38,719,23,4838,0,PlayStation 4,Epic Games,RPG,Teen,683,137,2805,133,747,333
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Steam,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Steam,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,PlayStation Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,PlayStation Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Xbox Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Xbox Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Epic Games,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PC,Epic Games,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Steam,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Steam,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,PlayStation Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,PlayStation Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Xbox Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Xbox Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Epic Games,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,Xbox One,Epic Games,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Steam,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Steam,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,PlayStation Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,PlayStation Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Xbox Store,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Xbox Store,Action,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Epic Games,Adventure,,481,67,3442,22,187,266
+442855,Mafia II: Definitive Edition,2020-05-19,3.85,481,2,4465,3,PlayStation 4,Epic Games,Action,,481,67,3442,22,187,266
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Steam,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Steam,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Steam,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,PlayStation Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,PlayStation Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,PlayStation Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Xbox Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Xbox Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PC,Xbox Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Steam,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Steam,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Steam,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,PlayStation Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,PlayStation Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,PlayStation Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Xbox Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Xbox Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Xbox One,Xbox Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Steam,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Steam,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Steam,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,PlayStation Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,PlayStation Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,PlayStation Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Xbox Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Xbox Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,PlayStation 4,Xbox Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Steam,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Steam,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Steam,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,PlayStation Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,PlayStation Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,PlayStation Store,Action,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Xbox Store,Shooter,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Xbox Store,Adventure,Mature,906,75,2567,22,575,290
+397477,Resident Evil 3,2020-04-02,4.02,807,18,4435,8,Nintendo Switch,Xbox Store,Action,Mature,906,75,2567,22,575,290
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,Steam,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,Steam,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,Steam,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,Steam,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,Steam,Platformer,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,PlayStation Store,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,PlayStation Store,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,PlayStation Store,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,PlayStation Store,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PC,PlayStation Store,Platformer,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,Steam,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,Steam,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,Steam,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,Steam,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,Steam,Platformer,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,PlayStation Store,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,PlayStation Store,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,PlayStation Store,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,PlayStation Store,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 5,PlayStation Store,Platformer,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,Steam,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,Steam,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,Steam,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,Steam,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,Steam,Platformer,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,PlayStation Store,Adventure,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,PlayStation Store,Action,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,PlayStation Store,Puzzle,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,PlayStation Store,Indie,Everyone 10+,843,148,2142,105,850,275
+452638,Stray,2022-07-19,4.16,810,12,4363,5,PlayStation 4,PlayStation Store,Platformer,Everyone 10+,843,148,2142,105,850,275
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,PC,Steam,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,PC,Steam,Action,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,PC,Xbox Store,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,PC,Xbox Store,Action,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox One,Steam,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox One,Steam,Action,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox One,Xbox Store,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox One,Xbox Store,Action,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox Series S/X,Steam,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox Series S/X,Steam,Action,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox Series S/X,Xbox Store,Shooter,,529,172,2800,105,377,258
+326252,Gears 5,2019-09-10,3.93,797,10,4241,6,Xbox Series S/X,Xbox Store,Action,,529,172,2800,105,377,258
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PC,Steam,Indie,Teen,109,307,3449,155,86,94
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PC,Steam,Action,Teen,109,307,3449,155,86,94
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PlayStation 5,Steam,Indie,Teen,109,307,3449,155,86,94
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PlayStation 5,Steam,Action,Teen,109,307,3449,155,86,94
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PlayStation 4,Steam,Indie,Teen,109,307,3449,155,86,94
+9551,Deep Rock Galactic,2020-05-13,4.07,534,8,4200,6,PlayStation 4,Steam,Action,Teen,109,307,3449,155,86,94
